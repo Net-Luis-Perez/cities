@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "d295",
+      "cityName": "Parma",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-04-19T04:44:09.506Z",
+      "notes": "l",
+      "position": {
+        "lat": 44.79975383451656,
+        "lng": 10.324911047456565
+      }
+    },
+    {
+      "id": "8ae3",
+      "cityName": "Encamp",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-07-26T07:41:19.910Z",
+      "notes": "sdfgsdfg",
+      "position": {
+        "lat": 42.51728430550589,
+        "lng": 1.6848246490803032
+      }
+    }
+  ]
+}
